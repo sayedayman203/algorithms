@@ -18,3 +18,5 @@ export const binary_search = (
   }
   return null;
 };
+
+// console.log(binary_search([1, 5, 6, 11, 16, 39, 52, 75, 77, 385], 11));
