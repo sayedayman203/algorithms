@@ -23,3 +23,5 @@ export const selection_sort = (
   }
   return sorted;
 };
+
+// console.log(selection_sort([11, 5, 39, 75, 16, 385, 1, 6, 77, 52]));
